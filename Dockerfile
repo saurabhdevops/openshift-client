@@ -4,7 +4,7 @@ MAINTAINER "Saurabh Oza" <saurabh.devops@gmail.com>
 
 # specify the version string of the oc release
 ENV OC_VERSION "v3.9.0"
-ENV OC_RELEASE "openshift-origin-client-tools-v3.9.0-191fece-linux-64bit.tar.gz"
+ENV OC_RELEASE "openshift-origin-client-tools-v3.9.0-191fece-linux-64bit"
 
 
 
